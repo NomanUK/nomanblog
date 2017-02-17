@@ -1,0 +1,28 @@
+{% requireAdmin %}
+{% import "_includes/forms" as forms %}
+
+<h2>{{ "General Settings"|t }}</h2>
+
+{{ forms.lightswitchField({
+		label: "Enable Comments"|t,
+		instructions: "Define wether visitors can leave comments"|t,
+		id: 'enableComments',
+		name: 'enableComments',
+		required: true,
+		value: settings.enableComments,
+		on: (settings.enableComments is defined) ? settings.enableComments : "",
+		errors: settings.getErrors('enableComments')
+	}) 
+}}
+
+{{ forms.lightswitchField({
+		label: "Show Author Comments"|t,
+		instructions: "Define wether the Author will be shown on posts"|t,
+		id: 'showAuthor',
+		name: 'showAuthor',
+		required: true,
+		value: settings.showAuthor,
+		on: (settings.showAuthor is defined) ? settings.showAuthor : "",
+		errors: settings.getErrors('showAuthor')
+	}) 
+}}

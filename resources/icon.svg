@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="83px" height="82px"
+	 viewBox="0 0 83 82" enable-background="new 0 0 83 82" xml:space="preserve">
+<title>icon</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="opt-2" transform="translate(-484.000000, -482.000000)" sketch:type="MSLayerGroup">
+		<g id="icon" transform="translate(484.912024, 482.000000)" sketch:type="MSShapeGroup">
+			
+				<linearGradient id="Oval-1_1_" gradientUnits="userSpaceOnUse" x1="-814.3895" y1="463.3506" x2="-813.6578" y2="462.3506" gradientTransform="matrix(-82 0 0 -82 -66710.3203 37996.625)">
+				<stop  offset="0" style="stop-color:#046180"/>
+				<stop  offset="0.2536" style="stop-color:#00A8D4"/>
+				<stop  offset="0.6288" style="stop-color:#00A9A7"/>
+				<stop  offset="1" style="stop-color:#004B6A"/>
+			</linearGradient>
+			<circle id="Oval-1" fill="url(#Oval-1_1_)" cx="41" cy="41" r="41"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M46.654,22.527l13.928,13.929L32.725,64.313H18.796V50.384L46.654,22.527z M30.95,60.027l3.048-3.047l-7.869-7.869
+			l-3.047,3.047v3.583h4.286v4.286H30.95z M48.461,28.956c0-0.491-0.246-0.737-0.736-0.737c-0.223,0-0.412,0.079-0.568,0.234
+			L29.008,46.601c-0.156,0.156-0.234,0.347-0.234,0.569c0,0.491,0.246,0.736,0.737,0.736c0.223,0,0.413-0.078,0.569-0.234
+			l18.147-18.147C48.383,29.369,48.461,29.179,48.461,28.956z M69.521,25.741c0,1.183-0.412,2.188-1.238,3.013l-5.559,5.558
+			L48.797,20.384l5.557-5.524c0.805-0.848,1.809-1.272,3.014-1.272c1.184,0,2.199,0.424,3.047,1.272l7.869,7.835
+			C69.109,23.565,69.521,24.581,69.521,25.741z"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M46.654,22.527l13.928,13.929L32.725,64.313H18.796V50.384L46.654,22.527z M30.95,60.027l3.048-3.047
+			l-7.869-7.869l-3.047,3.047v3.583h4.286v4.286H30.95z M48.461,28.956c0-0.491-0.246-0.737-0.736-0.737
+			c-0.223,0-0.412,0.079-0.568,0.234L29.008,46.601c-0.156,0.156-0.234,0.347-0.234,0.569c0,0.491,0.246,0.736,0.737,0.736
+			c0.223,0,0.413-0.078,0.569-0.234l18.147-18.147C48.383,29.369,48.461,29.179,48.461,28.956z M69.521,25.741
+			c0,1.183-0.412,2.188-1.238,3.013l-5.559,5.558L48.797,20.384l5.557-5.524c0.805-0.848,1.809-1.272,3.014-1.272
+			c1.184,0,2.199,0.424,3.047,1.272l7.869,7.835C69.109,23.565,69.521,24.581,69.521,25.741z"/>
+	</g>
+</g>
+</svg>

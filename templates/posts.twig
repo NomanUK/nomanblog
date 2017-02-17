@@ -1,0 +1,13 @@
+{% extends "nomanblog/_layouts/main" %}
+
+{% set title = "Posts"|t %}
+{% set selectedTab = 'posts' %}
+{% set crumbs = [
+    { label: "Blog"|t, url: url('nomanblog') },
+    { label: "Posts"|t, url: url('nomanblog/posts') }
+] %}
+{% set tabs = tabs.tabs %}
+
+{% set content %}
+    <p>Blog</p>
+{% endset %}

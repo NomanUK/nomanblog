@@ -1,0 +1,6 @@
+{% extends "_layouts/cp" %}
+{% set tabs = {
+    posts:         { label: "Posts"|t, url: url('nomanblog/posts') },
+    categories:    { label: "Categories"|t, url: url('nomanblog/categories') },
+	comments:      { label: "Comments"|t, url: url('nomanblog/comments') }
+} %}
